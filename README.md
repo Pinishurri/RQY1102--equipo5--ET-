@@ -54,17 +54,3 @@ El prototipo de alta fidelidad fue desarrollado en Figma.
 
 [Ver prototipo en Figma](https://view-derby-56169103.figma.site/)
 
-## Estructura del repositorio
-
-```text
-RQY1102_[NombreEquipo]_ET/
-├── README.md
-├── 01_Presentacion_Final.pptx
-├── 02_Carta_Gantt.xlsx
-├── 03_Planilla_Requisitos.xlsx
-├── 04_Diagramas_4+1/
-├── 05_Prototipo_AltaFidelidad/
-├── 06_Heuristica_Nielsen.xlsx
-├── 07_Registro_Casos_Prueba.xlsx
-├── 08_Control_Versiones.xlsx
-└── 09_DAS_Documento_Arquitectura.docx
